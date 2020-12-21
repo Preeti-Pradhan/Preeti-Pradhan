@@ -8,4 +8,4 @@ Hi 👋, I am Preeti
 - ⚡ Fun fact: I love singing
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Preeti-Pradhan>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Preeti-Pradhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
