@@ -1,4 +1,4 @@
-Hi 👋, I am Preeti
+<h1 align="center">Hi 👋, I am Preeti</h1>
 
 - 🔭 I’m currently working with PHP, Javascript and BootStrap.
 - 🌱 I’m currently learning Front - End Web Development and Machine Learning.
