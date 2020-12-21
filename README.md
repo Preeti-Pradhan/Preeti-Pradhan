@@ -11,7 +11,7 @@ Hi 👋, I am Preeti
 <p align="left">
 <a href="https://www.linkedin.com/in/preeti-93b72a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Preeti-Pradhan" height="30" width="40" /></a>
 <a href="https://instagram.com/_preeti_pradhan_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_preeti_pradhan_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Preeti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Preeti" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQGPCu4_m3WeYQAN86rTIQQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Preeti" height="30" width="40" /></a>
 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Preeti-Pradhan&show_icons=true&locale=en&layout=compact" alt="Preeti-Pradhan" /></p>
