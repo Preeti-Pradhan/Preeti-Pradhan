@@ -6,6 +6,6 @@ Hi 👋, I am Preeti
 - 💬 Ask me about anything related to coding or web development.
 - 📫 How to reach me: preetipradhan097@gmail.com
 - ⚡ Fun fact: I love singing
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Preeti-Pradhan&show_icons=true&locale=en&layout=compact" alt="Preeti-Pradhan" /></p>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Preeti-Pradhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Preeti-Pradhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
