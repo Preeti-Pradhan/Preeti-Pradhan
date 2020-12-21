@@ -7,3 +7,5 @@ Hi 👋, I am Preeti
 - 📫 How to reach me: preetipradhan097@gmail.com
 - ⚡ Fun fact: I love singing
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
