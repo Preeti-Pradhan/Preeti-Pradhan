@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Preeti</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Preeti-Pradhan&label=Profile%20views&color=129e00&style=plastic" alt="Preeti-Pradhan" /> </p>
+
 - 🔭 I’m currently working with PHP, Javascript and BootStrap.
 - 🌱 I’m currently learning Front - End Web Development and Machine Learning.
 - 👯 I’m looking to collaborate on open source projects.
@@ -8,7 +8,7 @@
 - 📫 How to reach me: preetipradhan097@gmail.com
 - ⚡ Fun fact: I love singing
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Preeti-Pradhan&label=Profile%20views&color=129e00&style=plastic" alt="Preeti-Pradhan" /> </p>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/preeti-93b72a1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Preeti-Pradhan" height="30" width="40" /></a>
